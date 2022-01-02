@@ -51,10 +51,10 @@ function BarMobile() {
             <a>{!wallet_ && <Connect navbar={false} mobile={true} />}</a>
           </li>
           <li className="col-6 d-flex mx-auto">
-            <a href="https://discord.gg/bkWJHedf3X" className="col-6">
+            <a href="https://t.co/hohp0WCMmW" className="col-6">
               <img src={Discord} alt="" width="30" />
             </a>
-            <a href="https://twitter.com/internetkidsio" className="col-6">
+            <a href="https://twitter.com/bigtimebikers" className="col-6">
               <img src={Twitter} alt="" width="30" />
             </a>
           </li>
